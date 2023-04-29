@@ -21,7 +21,7 @@ a{
 
 
 .comic:hover{
-  transform: scale(1.09);
+  transform: scale(1.04);
   transition: all .2s ease-in;
   z-index: 10;
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
